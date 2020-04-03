@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/5-Ronnie/Scenes/RonnieScene.unity
+    guid: 4ab21ffd15e9f4780adbbb1aba24e333
   m_configObjects: {}
